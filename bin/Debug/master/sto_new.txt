@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS `sto_new` (
+  `tgl_stockout` date DEFAULT NULL,
+  `prdcd` char(10) DEFAULT '',
+  `jenis_stockout` char(3) DEFAULT NULL,
+  `toko` char(4) DEFAULT NULL,
+  `ptag` char(2) DEFAULT NULL,
+  `sales` char(1) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;

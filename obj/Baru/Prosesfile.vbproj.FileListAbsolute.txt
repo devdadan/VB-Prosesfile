@@ -1,0 +1,13 @@
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.vbproj.AssemblyReference.cache
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.Form1.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.Form2.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.Formdb.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.FrmLoad.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.frmpath.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.MDIParent1.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.Resources.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.UCAbsen.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.UChapus.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.UCtransaksi.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.vbproj.GenerateResource.cache
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Baru\Prosesfile.vbproj.CoreCompileInputs.cache

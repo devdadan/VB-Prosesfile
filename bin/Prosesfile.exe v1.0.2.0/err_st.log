@@ -1,0 +1,4 @@
+-- LOG ST --
+-------------
+Query :
+update absen_st06 set TG06='1' where kdtk='RRPP'

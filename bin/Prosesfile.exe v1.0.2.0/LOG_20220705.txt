@@ -1,0 +1,19 @@
+##### LOG PROGRAM #####
+2022-07-05 17:28:23 : Eror di absen DT
+2022-07-05 17:28:26 : Eror di absen DT
+2022-07-05 17:28:28 : Eror di absen DT
+2022-07-05 17:28:30 : Eror di absen DT
+2022-07-05 17:28:32 : Eror di absen DT
+2022-07-05 17:28:34 : Eror di absen DT
+2022-07-05 17:28:35 : Eror di absen DT
+2022-07-05 17:28:37 : Eror di absen DT
+2022-07-05 17:28:39 : Eror di absen DT
+2022-07-05 17:28:41 : Eror di absen DT
+2022-07-05 17:28:42 : Eror di absen DT
+2022-07-05 17:28:44 : Eror di absen DT
+2022-07-05 17:28:45 : Eror di absen DT
+2022-07-05 17:28:47 : Eror di absen DT
+2022-07-05 17:29:49 : eror pada proses stupdate absen_st07 set TG04='1' where kdtk='F0C4'
+2022-07-05 17:29:49 : error pada proses sto create table if not exists sto_07 like sto_new
+2022-07-05 17:29:49 : error pada proses ekstrak  file : STO0704F.0C4
+2022-07-05 17:29:49 : eror di tombol button

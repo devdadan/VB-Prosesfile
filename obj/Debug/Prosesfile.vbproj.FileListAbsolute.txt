@@ -1,0 +1,82 @@
+D:\PROGRAM VB\Prosesfile\bin\Debug\Prosesfile.exe
+D:\PROGRAM VB\Prosesfile\bin\Debug\Prosesfile.pdb
+D:\PROGRAM VB\Prosesfile\bin\Debug\Prosesfile.xml
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.Resources.resources
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.vbproj.GenerateResource.cache
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.vbproj.CoreCompileInputs.cache
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.exe
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.xml
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.pdb
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.Form1.resources
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.MDIParent1.resources
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.Form2.resources
+D:\PROGRAM VB\Prosesfile\bin\Debug\MySql.Data.dll
+D:\PROGRAM VB\Prosesfile\bin\Debug\ZipForge2003.dll
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.vbproj.CopyComplete
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.UCtransaksi.resources
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.frmpath.resources
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.FrmLoad.resources
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.Formdb.resources
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.UCAbsen.resources
+D:\PROGRAM VB\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.exe
+D:\PROGRAM VB\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.pdb
+D:\PROGRAM VB\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.xml
+D:\PROGRAM VB\Prosesfile\bin\Prosesfile.exe v1.0.2.0\MySql.Data.dll
+D:\PROGRAM VB\Prosesfile\bin\Prosesfile.exe v1.0.2.0\ZipForge2003.dll
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.UChapus.resources
+D:\PROGRAM VB\Prosesfile\obj\Debug\Prosesfile.vbproj.AssemblyReference.cache
+D:\PROGRAM VB\SourceCOde\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.exe
+D:\PROGRAM VB\SourceCOde\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.pdb
+D:\PROGRAM VB\SourceCOde\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.xml
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.Form1.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.Form2.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.Formdb.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.FrmLoad.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.frmpath.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.MDIParent1.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.Resources.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.UCAbsen.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.UChapus.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.UCtransaksi.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.vbproj.GenerateResource.cache
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.vbproj.CoreCompileInputs.cache
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.vbproj.CopyComplete
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.exe
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.xml
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.pdb
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.Frmpass.resources
+D:\PROGRAM VB\SourceCOde\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.exe.manifest
+D:\PROGRAM VB\SourceCOde\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.application
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.exe.manifest
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.application
+D:\PROGRAM VB\SourceCOde\Prosesfile\obj\Debug\Prosesfile.vbproj.AssemblyReference.cache
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.Form1.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.Form2.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.Formdb.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.FrmLoad.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.Frmpass.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.frmpath.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.MDIParent1.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.Resources.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.UCAbsen.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.UChapus.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.UCtransaksi.resources
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.vbproj.GenerateResource.cache
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.vbproj.CoreCompileInputs.cache
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.exe
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.xml
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.pdb
+D:\PROGRAM VB\DS-Projek\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.exe.manifest
+D:\PROGRAM VB\DS-Projek\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.application
+D:\PROGRAM VB\DS-Projek\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.exe
+D:\PROGRAM VB\DS-Projek\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.pdb
+D:\PROGRAM VB\DS-Projek\Prosesfile\bin\Prosesfile.exe v1.0.2.0\Prosesfile.xml
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.exe.manifest
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.application
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.vbproj.CopyComplete
+D:\PROGRAM VB\DS-Projek\Prosesfile\bin\Debug\Prosesfile.exe.manifest
+D:\PROGRAM VB\DS-Projek\Prosesfile\bin\Debug\Prosesfile.application
+D:\PROGRAM VB\DS-Projek\Prosesfile\bin\Debug\Prosesfile.exe
+D:\PROGRAM VB\DS-Projek\Prosesfile\bin\Debug\Prosesfile.pdb
+D:\PROGRAM VB\DS-Projek\Prosesfile\bin\Debug\Prosesfile.xml
+D:\PROGRAM VB\DS-Projek\Prosesfile\obj\Debug\Prosesfile.vbproj.AssemblyReference.cache
